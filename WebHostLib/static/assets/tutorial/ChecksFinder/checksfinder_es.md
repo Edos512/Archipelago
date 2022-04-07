@@ -24,9 +24,9 @@ Cuando te unes a una sesión multiworld, se te pedira que entregues el fichero Y
 
 ### Conectarse al MultiServer
 
-Primero ejecuta tanto ChecksFinder como CheckFinderClient (este ultimo esta situado en el directorio de Archipelago).
+Primero ejecuta tanto ChecksFinder como ChecksFinderClient (este ultimo esta situado en el directorio de Archipelago).
 
-Una vez esten ambos iniciados, en CheckFinderClient introduce la direccion del anfitrion (archipelago.gg si es un juego hospedado en la web de archipelago, o la direccion IP del anfitrión en caso contrario), y el puerto en el que esta ejecutándose esa sesión (si el puerto de la sesión es el puerto por defecto de Archipelago (38281) no es necesario especificarlo) en el campo superior.
+Una vez esten ambos iniciados, en ChecksFinderClient introduce la direccion del anfitrion (archipelago.gg si es un juego hospedado en la web de archipelago, o la direccion IP del anfitrión en caso contrario), y el puerto en el que esta ejecutándose esa sesión (si el puerto de la sesión es el puerto por defecto de Archipelago (38281) no es necesario especificarlo) en el campo superior.
 
 El cliente pedirá el usuario con el que quieres conectarte (es el valor de la opción "name" del fichero yalm), introdúcelo en el campo de texto en la parte inferior del cliente.
 
